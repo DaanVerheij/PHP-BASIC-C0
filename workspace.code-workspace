@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"name": "frontend-essentials",
+			"path": "..\\..\\..\\Users\\Hoofdgebruiker\\OneDrive\\schoolwerk\\jaar1\\frontend-essentials"
+		},
+		{
+			"name": "frontend-basic",
+			"path": "..\\..\\..\\Users\\Hoofdgebruiker\\OneDrive\\schoolwerk\\jaar1\\frontend-basic"
+		},
+		{
+			"name": "devops",
+			"path": "..\\..\\..\\Users\\Hoofdgebruiker\\OneDrive\\schoolwerk\\devops"
+		},
+		{
+			"name": "mysql-basic-c0",
+			"path": "..\\..\\..\\Users\\Hoofdgebruiker\\OneDrive\\schoolwerk\\jaar1\\mysql-basic-c0"
+		},
+		{
+			"name": "cybersecurity",
+			"path": "..\\..\\..\\Users\\Hoofdgebruiker\\OneDrive\\schoolwerk\\jaar1\\cybersecurity"
+		},
+		{
+			"name": "challenge-portfolio",
+			"path": "..\\..\\..\\Users\\Hoofdgebruiker\\OneDrive\\schoolwerk\\jaar1\\challenge-portfolio"
+		},
+		{
+			"name": "php-basic-c0",
+			"path": "..\\..\\..\\Users\\Hoofdgebruiker\\OneDrive\\schoolwerk\\jaar1\\php-basic-c0"
+		},
+		{
+			"name": "htdocs",
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\Users\\Hoofdgebruiker\\OneDrive\\schoolwerk\\jaar1\\htdocs"
+		}
+	],
+	"settings": {}
+}

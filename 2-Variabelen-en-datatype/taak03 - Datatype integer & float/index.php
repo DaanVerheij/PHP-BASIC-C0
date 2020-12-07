@@ -3,11 +3,15 @@
 <body>
 
 <?php
-$leeftijd = 55;
+$leeftijd = 16;
 echo $leeftijd;
+?>
+
+<?php
 $melkprijs = 0.98;
 echo $melkprijs;
 ?>
+
 
 </body>
 </html> 
